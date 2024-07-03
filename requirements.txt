@@ -1,0 +1,10 @@
+langchain 
+transformers
+torch
+pypdf 
+sentencepiece
+huggingface-hub
+streamlit
+langchain_community
+langchain_core
+python-dotenv
