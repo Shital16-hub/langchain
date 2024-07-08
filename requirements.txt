@@ -8,3 +8,8 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+transformers
+torch
+bs4
+chromadb
+sentence-transformers
